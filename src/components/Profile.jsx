@@ -36,7 +36,7 @@ const Profile = () => {
         </div>
 
         {/* Background circle - right */}
-        <div className="absolute w-48 h-48 sm:w-64 sm:h-64 lg:w-[300px] lg:h-[300px] bg-[#bfb0a3] rounded-full top-8 -right-20 sm:top-8 sm:-right-20 lg:top-16 lg:-right-32">
+        <div className="absolute w-48 h-48 sm:w-64 sm:h-64 lg:w-[300px] lg:h-[300px] bg-[#bfb0a3] rounded-full top-8 -right-20 sm:top-12 sm:-right-28 lg:top-16 lg:-right-32">
         </div>
       </div>
       
