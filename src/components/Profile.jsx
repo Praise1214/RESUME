@@ -26,7 +26,7 @@ const Profile = () => {
         </div>
 
         {/* Name */}
-        <div className="absolute top-16 left-52 sm:top-20 sm:left-64 lg:top-20 lg:left-[400px]">
+        <div className="absolute top-16 left-52 sm:top-20 sm:left-64 lg:top-15 lg:left-[600px]">
           <p className="text-3xl sm:text-4xl lg:text-6xl font-bold">Praise Daniels</p>
         </div>
 
@@ -36,7 +36,7 @@ const Profile = () => {
         </div>
 
         {/* Background circle - right */}
-        <div className="absolute w-48 h-48 sm:w-64 sm:h-64 lg:w-[300px] lg:h-[300px] bg-[#bfb0a3] rounded-full top-12 right-4 sm:top-14 sm:-right-20 lg:top-16 lg:-right-32">
+        <div className="absolute w-48 h-48 sm:w-64 sm:h-64 lg:w-[300px] lg:h-[300px] bg-[#bfb0a3] rounded-full top-8 -right-20 sm:top-14 sm:-right-20 lg:top-16 lg:-right-32">
         </div>
       </div>
       
